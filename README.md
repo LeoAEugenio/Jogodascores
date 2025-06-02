@@ -1,3 +1,12 @@
-**Integrantes:** Leonardo Assumpção Eugenio e João Victor Costa
 
-Trabalho do jogo das cores está disponivel em SRC folder > Modulo 2 > ExercicioMoodle4
+# Jogo das cores
+
+Jogo em que, ao clicar em um quadrado, você elimina todos os outros da mesma cor, acumulando pontos a cada jogada e competindo pelo melhor resultado.
+
+
+## Autores
+
+- [@LeoAEugenio](https://github.com/LeoAEugenio)
+- [@joaovictorcs29](https://github.com/joaovictorcs29)
+
+
