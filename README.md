@@ -3,6 +3,7 @@
 
 Jogo em que, ao clicar em um quadrado, você elimina todos os outros da mesma cor, acumulando pontos a cada jogada e competindo pelo melhor resultado.
 
+Nome do arquivo: ExercicioMoodle4
 
 ## Autores
 
